@@ -1,0 +1,29 @@
+
+serverside:
+
+step1 :  folder hirerchy
+
+step 2: server side setup 
+   a: npm install init express mongoose cors nodemon 
+   b: npm init
+
+step3: index.js 
+
+step4: adding line "dev" : "nodemon index.js"  | "start" "nodemon index.js"  in package.json
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon index.js" 
+  },
+
+step 5: index.js file setup  
+
+   a: import packages
+   b: mongodb connection
+   c: get api  
+   d: post api
+   e: put api
+   f: delete api
+
+step 6: postman api testing
+
+client side: 
